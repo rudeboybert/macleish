@@ -12,6 +12,8 @@ Authors@R: c(
     person("Nicholas", "Horton", email = "nhorton@amherst.edu", role = "aut"),
     person("Albert Y.", "Kim", email = "albert.ys.kim@gmail.com", role = "ctb", comment = c(ORCID = "0000-0001-7824-306X")),
     person("Cosme", "Fulanito", email = "whoishomer56@gmail.com", role = "ctb", comment = c(ORCID = "0000-0000-0000-0000"))
+    ),
+    person("Olivia", "Handoko", email = "ohandoko@smith.edu", role = "ctb", comment = c(ORCID = "0000-0001-7011-7122"))
     )
 Description: Download data from the Ada and Archibald MacLeish Field 
     Station in Whately, MA. The Ada 
