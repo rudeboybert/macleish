@@ -4,28 +4,27 @@ Title: Retrieve Data from MacLeish Field Station
 Version: 0.3.6
 Authors@R: c(
     person("Benjamin S.", "Baumer", email = "ben.baumer@gmail.com",
-      role = c("aut", "cre"), 
+      role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-3279-0516")),
     person("Rose", "Goueth", role = "aut"),
     person("Wencong", "Li", email = "liwencong1995@gmail.com", role = "aut"),
     person("Weijia", "Zhang", email = "wzhang23@smith.edu", role = "aut"),
     person("Nicholas", "Horton", email = "nhorton@amherst.edu", role = "aut"),
     person("Albert Y.", "Kim", email = "albert.ys.kim@gmail.com", role = "ctb", comment = c(ORCID = "0000-0001-7824-306X")),
-    person("Cosme", "Fulanito", email = "whoishomer56@gmail.com", role = "ctb", comment = c(ORCID = "0000-0000-0000-0000"))
-    ),
-    person("Olivia", "Handoko", email = "ohandoko@smith.edu", role = "ctb", comment = c(ORCID = "0000-0001-7011-7122"))
+    person("Cosme", "Fulanito", email = "whoishomer56@gmail.com", role = "ctb", comment = c(ORCID = "0000-0000-0000-0000")),
+    person("Olivia", "Handoko", email = "ohandoko@smith.edu", role = "ctb", comment = c(ORCID = "0000-0001-7011-7122")),
+    person("Lauren", "Low", email = "llow@smith.edu", role = "ctb", comment = c(ORCID = "0000-0001-5960-4966")),
+    person("Sophie", "Li", email = "smli@smith.edu", role = "ctb", comment = c(ORCID = "0000-0001-5301-4594"))
     )
-    person("Lauren", "Low", email = "llow@smith.edu", role = "ctb", comment = c(ORCID = "0000-0001-5960-4966"))
-    )
-Description: Download data from the Ada and Archibald MacLeish Field 
-    Station in Whately, MA. The Ada 
-    and Archibald MacLeish Field Station is a 260-acre patchwork of 
-    forest and farmland located in West Whately, MA that provides opportunities 
-    for faculty and students to pursue environmental research, outdoor 
-    education, and low-impact recreation 
-    (see <http://www.smith.edu/ceeds/macleish.php> for more information). 
-    This package contains 
-    weather data over several years, and spatial data on various man-made and 
+Description: Download data from the Ada and Archibald MacLeish Field
+    Station in Whately, MA. The Ada
+    and Archibald MacLeish Field Station is a 260-acre patchwork of
+    forest and farmland located in West Whately, MA that provides opportunities
+    for faculty and students to pursue environmental research, outdoor
+    education, and low-impact recreation
+    (see <http://www.smith.edu/ceeds/macleish.php> for more information).
+    This package contains
+    weather data over several years, and spatial data on various man-made and
     natural structures.
 License: CC0
 LazyData: TRUE
@@ -53,4 +52,4 @@ URL: http://github.com/beanumber/macleish
 BugReports: https://github.com/beanumber/macleish/issues
 RoxygenNote: 7.1.1
 Encoding: UTF-8
-VignetteBuilder: knitr, rmarkdown, etl, dplyr, ggplot2, lubridate, mgcv, leaflet, clifro 
+VignetteBuilder: knitr, rmarkdown, etl, dplyr, ggplot2, lubridate, mgcv, leaflet, clifro
