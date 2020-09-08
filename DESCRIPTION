@@ -2,7 +2,7 @@ Package: macleish
 Type: Package
 Title: Retrieve Data from MacLeish Field Station
 Version: 0.3.6
-Authors@R: c(
+Authors@R: c( 
     person("Benjamin S.", "Baumer", email = "ben.baumer@gmail.com",
       role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-3279-0516")),
@@ -17,7 +17,8 @@ Authors@R: c(
     person("Sophie", "Li", email = "smli@smith.edu", role = "ctb", comment = c(ORCID = "0000-0001-5301-4594")),
     person("Phuong", "Chau", email = "pchau@smith.edu", role = "ctb", comment = c(ORCID = "0000-0001-5838-800X")),
     person("Starry", "Zhou", email = "zhouyujiaa@gmail.com", role = "ctb", comment = c(ORCID = "0000-0001-5382-7835")),
-    person("Emma S.", "Scott", email = "esscott@smith.edu", role = "ctb", comment = c(ORCID = "0000-0002-1083-5867"))
+    person("Emma S.", "Scott", email = "esscott@smith.edu", role = "ctb", comment = c(ORCID = "0000-0002-1083-5867")),
+    person("Serena", "Li", email = "sli58@smith.edu", role = "ctb", comment = c(ORCID = "0000-0003-1486-3432"))
     )
 Description: Download data from the Ada and Archibald MacLeish Field
     Station in Whately, MA. The Ada
